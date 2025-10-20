@@ -1,0 +1,16 @@
+E:\C#\FrmBasicThread\obj\Debug\net8.0-windows\FrmBasicThread.csproj.GenerateResource.cache
+E:\C#\FrmBasicThread\obj\Debug\net8.0-windows\FrmBasicThread.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\FrmBasicThread\obj\Debug\net8.0-windows\FrmBasicThread.AssemblyInfoInputs.cache
+E:\C#\FrmBasicThread\obj\Debug\net8.0-windows\FrmBasicThread.AssemblyInfo.cs
+E:\C#\FrmBasicThread\obj\Debug\net8.0-windows\FrmBasicThread.csproj.CoreCompileInputs.cache
+E:\C#\FrmBasicThread\bin\Debug\net8.0-windows\FrmBasicThread.exe
+E:\C#\FrmBasicThread\bin\Debug\net8.0-windows\FrmBasicThread.deps.json
+E:\C#\FrmBasicThread\bin\Debug\net8.0-windows\FrmBasicThread.runtimeconfig.json
+E:\C#\FrmBasicThread\bin\Debug\net8.0-windows\FrmBasicThread.dll
+E:\C#\FrmBasicThread\bin\Debug\net8.0-windows\FrmBasicThread.pdb
+E:\C#\FrmBasicThread\obj\Debug\net8.0-windows\FrmBasicThread.dll
+E:\C#\FrmBasicThread\obj\Debug\net8.0-windows\refint\FrmBasicThread.dll
+E:\C#\FrmBasicThread\obj\Debug\net8.0-windows\FrmBasicThread.pdb
+E:\C#\FrmBasicThread\obj\Debug\net8.0-windows\FrmBasicThread.genruntimeconfig.cache
+E:\C#\FrmBasicThread\obj\Debug\net8.0-windows\ref\FrmBasicThread.dll
+E:\C#\FrmBasicThread\obj\Debug\net8.0-windows\BasicThreadApp.FrmBasicThread.resources

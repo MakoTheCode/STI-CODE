@@ -1,0 +1,10 @@
+E:\C#\EmployeeApplication\bin\Debug\EmployeeApplication.exe.config
+E:\C#\EmployeeApplication\bin\Debug\EmployeeApplication.exe
+E:\C#\EmployeeApplication\bin\Debug\EmployeeApplication.pdb
+E:\C#\EmployeeApplication\obj\Debug\EmployeeApplication.csproj.AssemblyReference.cache
+E:\C#\EmployeeApplication\obj\Debug\EmployeeApplication.Properties.Resources.resources
+E:\C#\EmployeeApplication\obj\Debug\EmployeeApplication.csproj.GenerateResource.cache
+E:\C#\EmployeeApplication\obj\Debug\EmployeeApplication.csproj.CoreCompileInputs.cache
+E:\C#\EmployeeApplication\obj\Debug\EmployeeApplication.exe
+E:\C#\EmployeeApplication\obj\Debug\EmployeeApplication.pdb
+E:\C#\EmployeeApplication\obj\Debug\EmployeeApplication.frmComputeSalary.resources

@@ -1,0 +1,17 @@
+E:\C#\FrmRegistration\bin\Debug\net8.0-windows\FrmRegistration.exe
+E:\C#\FrmRegistration\bin\Debug\net8.0-windows\FrmRegistration.deps.json
+E:\C#\FrmRegistration\bin\Debug\net8.0-windows\FrmRegistration.runtimeconfig.json
+E:\C#\FrmRegistration\bin\Debug\net8.0-windows\FrmRegistration.dll
+E:\C#\FrmRegistration\bin\Debug\net8.0-windows\FrmRegistration.pdb
+E:\C#\FrmRegistration\obj\Debug\net8.0-windows\FrmRegistration.FrmRegistration.resources
+E:\C#\FrmRegistration\obj\Debug\net8.0-windows\FrmRegistration.FrmStudentRecord.resources
+E:\C#\FrmRegistration\obj\Debug\net8.0-windows\FrmRegistration.csproj.GenerateResource.cache
+E:\C#\FrmRegistration\obj\Debug\net8.0-windows\FrmRegistration.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\FrmRegistration\obj\Debug\net8.0-windows\FrmRegistration.AssemblyInfoInputs.cache
+E:\C#\FrmRegistration\obj\Debug\net8.0-windows\FrmRegistration.AssemblyInfo.cs
+E:\C#\FrmRegistration\obj\Debug\net8.0-windows\FrmRegistration.csproj.CoreCompileInputs.cache
+E:\C#\FrmRegistration\obj\Debug\net8.0-windows\FrmRegistration.dll
+E:\C#\FrmRegistration\obj\Debug\net8.0-windows\refint\FrmRegistration.dll
+E:\C#\FrmRegistration\obj\Debug\net8.0-windows\FrmRegistration.pdb
+E:\C#\FrmRegistration\obj\Debug\net8.0-windows\FrmRegistration.genruntimeconfig.cache
+E:\C#\FrmRegistration\obj\Debug\net8.0-windows\ref\FrmRegistration.dll

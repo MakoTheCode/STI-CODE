@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\C#\\QueingForm\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4E46DE88-2823-463A-A4DD-193740E50484}|Queueing Program\\Queueing Program.csproj|e:\\c#\\queingform\\queueing program\\cashierclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E46DE88-2823-463A-A4DD-193740E50484}|Queueing Program\\Queueing Program.csproj|solutionrelative:queueing program\\cashierclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E46DE88-2823-463A-A4DD-193740E50484}|Queueing Program\\Queueing Program.csproj|e:\\c#\\queingform\\queueing program\\customerview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E46DE88-2823-463A-A4DD-193740E50484}|Queueing Program\\Queueing Program.csproj|solutionrelative:queueing program\\customerview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CashierClass.cs",
+              "DocumentMoniker": "E:\\C#\\QueingForm\\Queueing Program\\CashierClass.cs",
+              "RelativeDocumentMoniker": "Queueing Program\\CashierClass.cs",
+              "ToolTip": "E:\\C#\\QueingForm\\Queueing Program\\CashierClass.cs",
+              "RelativeToolTip": "Queueing Program\\CashierClass.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T06:43:23.462Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CustomerView.cs",
+              "DocumentMoniker": "E:\\C#\\QueingForm\\Queueing Program\\CustomerView.cs",
+              "RelativeDocumentMoniker": "Queueing Program\\CustomerView.cs",
+              "ToolTip": "E:\\C#\\QueingForm\\Queueing Program\\CustomerView.cs",
+              "RelativeToolTip": "Queueing Program\\CustomerView.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAwCIAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T10:02:15.14Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,173 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Loops and Iteration Conditions</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: 'Georgia', 'Times New Roman', serif;
+            background: #f0f0f0;
+            color: #333;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            height: 100vh;
+            text-align: center;
+            padding: 20px;
+            line-height: 1.5;
+        }
+
+        h1 {
+            font-size: 3.5em;
+            margin-bottom: 20px;
+            font-weight: normal;
+            color: #4b2e83;
+            text-shadow: 1px 1px 2px #ddd;
+        }
+
+        h2 {
+            font-size: 2em;
+            margin-top: 20px;
+            color: #4b2e83;
+        }
+
+        .button-container {
+            display: flex;
+            flex-direction: column;
+            gap: 15px;
+            margin-top: 30px;
+        }
+
+        button {
+            background-color: #3e5c76;
+            color: white;
+            padding: 12px 25px;
+            font-size: 1.1em;
+            border: 2px solid #3e5c76;
+            border-radius: 5px;
+            cursor: pointer;
+            transition: background-color 0.3s ease, transform 0.3s ease;
+            width: 250px;
+        }
+
+        button:hover {
+            background-color: #4b6d89;
+            transform: scale(1.05);
+        }
+
+        .output-box {
+            margin-top: 20px;
+            padding: 20px;
+            background: white;
+            border: 2px solid #dcdcdc;
+            border-radius: 5px;
+            width: 100%;
+            max-width: 600px;
+            box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);
+        }
+
+        .output-box p {
+            font-size: 1.2em;
+            color: #333;
+        }
+
+        @media (max-width: 768px) {
+            h1 {
+                font-size: 2.5em;
+            }
+
+            h2 {
+                font-size: 1.5em;
+            }
+
+            button {
+                width: 200px;
+            }
+
+            .output-box p {
+                font-size: 1em;
+            }
+        }
+
+    </style>
+    <script>
+        function checkAge() {
+            var age = prompt("Enter your age:");
+            if (age >= 25) {
+                alert("You are 25 years old and up.");
+            } else {
+                alert("You are under 25 years old.");
+            }
+        }
+
+        function checkNumber() {
+            var number = prompt("Enter a number:");
+            if (number < 100) {
+                alert("The number you entered is less than 100.");
+            } else {
+                alert("The number you entered is 100 or greater.");
+            }
+        }
+
+        function printNumbers() {
+            var output = "";
+            for (var i = 0; i <= 30; i++) {
+                output += i + "<br>";
+            }
+            document.getElementById("numbers").innerHTML = output;
+        }
+
+        function printEvenNumbers() {
+            var output = "";
+            for (var i = 0; i <= 40; i++) {
+                if (i % 2 === 0) {
+                    output += i + "<br>";
+                }
+            }
+            document.getElementById("evenNumbers").innerHTML = output;
+        }
+
+        function printDescendingMultiplesOfThree() {
+            var output = "";
+            for (var i = 40; i >= 10; i--) {
+                if (i % 3 === 0) {
+                    output += i + "<br>";
+                }
+            }
+            document.getElementById("multiplesOfThree").innerHTML = output;
+        }
+    </script>
+</head>
+<body>
+
+    <h1>Loops and Iteration Conditions</h1>
+
+    <div class="button-container">
+        <button onclick="checkAge()">Check if you are 25 years old and up</button>
+        <button onclick="checkNumber()">Check if the number is less than 100</button>
+    </div>
+
+    <hr>
+
+    <h2>Task 2a: Numbers from 0 to 30</h2>
+    <button onclick="printNumbers()">Print Numbers 0-30</button>
+    <div class="output-box" id="numbers"></div>
+
+    <h2>Task 2b: Even Numbers from 0 to 40</h2>
+    <button onclick="printEvenNumbers()">Print Even Numbers 0-40</button>
+    <div class="output-box" id="evenNumbers"></div>
+
+    <h2>Task 2c: Multiples of 3 from 40 to 10</h2>
+    <button onclick="printDescendingMultiplesOfThree()">Print Multiples of 3 40-10</button>
+    <div class="output-box" id="multiplesOfThree"></div>
+
+</body>
+</html>

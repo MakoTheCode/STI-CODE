@@ -1,0 +1,17 @@
+E:\C#\OrganizationProfile\obj\Debug\net8.0-windows\OrganizationProfile.frmRegistration.resources
+E:\C#\OrganizationProfile\obj\Debug\net8.0-windows\OrganizationProfile.csproj.GenerateResource.cache
+E:\C#\OrganizationProfile\obj\Debug\net8.0-windows\OrganizationProfile.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\OrganizationProfile\obj\Debug\net8.0-windows\OrganizationProfile.AssemblyInfoInputs.cache
+E:\C#\OrganizationProfile\obj\Debug\net8.0-windows\OrganizationProfile.AssemblyInfo.cs
+E:\C#\OrganizationProfile\obj\Debug\net8.0-windows\OrganizationProfile.csproj.CoreCompileInputs.cache
+E:\C#\OrganizationProfile\bin\Debug\net8.0-windows\OrganizationProfile.exe
+E:\C#\OrganizationProfile\bin\Debug\net8.0-windows\OrganizationProfile.deps.json
+E:\C#\OrganizationProfile\bin\Debug\net8.0-windows\OrganizationProfile.runtimeconfig.json
+E:\C#\OrganizationProfile\bin\Debug\net8.0-windows\OrganizationProfile.dll
+E:\C#\OrganizationProfile\bin\Debug\net8.0-windows\OrganizationProfile.pdb
+E:\C#\OrganizationProfile\obj\Debug\net8.0-windows\OrganizationProfile.FrmStudentRecord.resources
+E:\C#\OrganizationProfile\obj\Debug\net8.0-windows\OrganizationProfile.dll
+E:\C#\OrganizationProfile\obj\Debug\net8.0-windows\refint\OrganizationProfile.dll
+E:\C#\OrganizationProfile\obj\Debug\net8.0-windows\OrganizationProfile.pdb
+E:\C#\OrganizationProfile\obj\Debug\net8.0-windows\OrganizationProfile.genruntimeconfig.cache
+E:\C#\OrganizationProfile\obj\Debug\net8.0-windows\ref\OrganizationProfile.dll

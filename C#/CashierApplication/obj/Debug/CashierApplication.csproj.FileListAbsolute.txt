@@ -1,0 +1,9 @@
+E:\C#\CashierApplication\obj\Debug\CashierApplication.csproj.AssemblyReference.cache
+E:\C#\CashierApplication\obj\Debug\CashierApplication.Properties.Resources.resources
+E:\C#\CashierApplication\obj\Debug\CashierApplication.csproj.GenerateResource.cache
+E:\C#\CashierApplication\obj\Debug\CashierApplication.csproj.CoreCompileInputs.cache
+E:\C#\CashierApplication\bin\Debug\CashierApplication.exe.config
+E:\C#\CashierApplication\bin\Debug\CashierApplication.exe
+E:\C#\CashierApplication\bin\Debug\CashierApplication.pdb
+E:\C#\CashierApplication\obj\Debug\CashierApplication.exe
+E:\C#\CashierApplication\obj\Debug\CashierApplication.pdb

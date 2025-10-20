@@ -1,0 +1,24 @@
+C:\Users\jaz\source\repos\Queueing Program\Queueing Program\bin\Debug\Queueing Program.exe.config
+C:\Users\jaz\source\repos\Queueing Program\Queueing Program\bin\Debug\Queueing Program.exe
+C:\Users\jaz\source\repos\Queueing Program\Queueing Program\bin\Debug\Queueing Program.pdb
+C:\Users\jaz\source\repos\Queueing Program\Queueing Program\obj\Debug\Queueing Program.csproj.AssemblyReference.cache
+C:\Users\jaz\source\repos\Queueing Program\Queueing Program\obj\Debug\Queueing_Program.CashierWindowQueue.resources
+C:\Users\jaz\source\repos\Queueing Program\Queueing Program\obj\Debug\Queueing_Program.Properties.Resources.resources
+C:\Users\jaz\source\repos\Queueing Program\Queueing Program\obj\Debug\Queueing_Program.QueueingForm.resources
+C:\Users\jaz\source\repos\Queueing Program\Queueing Program\obj\Debug\Queueing Program.csproj.GenerateResource.cache
+C:\Users\jaz\source\repos\Queueing Program\Queueing Program\obj\Debug\Queueing Program.csproj.CoreCompileInputs.cache
+C:\Users\jaz\source\repos\Queueing Program\Queueing Program\obj\Debug\Queueing Program.exe
+C:\Users\jaz\source\repos\Queueing Program\Queueing Program\obj\Debug\Queueing Program.pdb
+C:\Users\jaz\source\repos\Queueing Program\Queueing Program\obj\Debug\Queueing_Program.CustomerView.resources
+E:\C#\QueingForm\Queueing Program\bin\Debug\Queueing Program.exe.config
+E:\C#\QueingForm\Queueing Program\bin\Debug\Queueing Program.exe
+E:\C#\QueingForm\Queueing Program\bin\Debug\Queueing Program.pdb
+E:\C#\QueingForm\Queueing Program\obj\Debug\Queueing Program.csproj.AssemblyReference.cache
+E:\C#\QueingForm\Queueing Program\obj\Debug\Queueing_Program.CashierWindowQueue.resources
+E:\C#\QueingForm\Queueing Program\obj\Debug\Queueing_Program.CustomerView.resources
+E:\C#\QueingForm\Queueing Program\obj\Debug\Queueing_Program.Properties.Resources.resources
+E:\C#\QueingForm\Queueing Program\obj\Debug\Queueing_Program.QueueingForm.resources
+E:\C#\QueingForm\Queueing Program\obj\Debug\Queueing Program.csproj.GenerateResource.cache
+E:\C#\QueingForm\Queueing Program\obj\Debug\Queueing Program.csproj.CoreCompileInputs.cache
+E:\C#\QueingForm\Queueing Program\obj\Debug\Queueing Program.exe
+E:\C#\QueingForm\Queueing Program\obj\Debug\Queueing Program.pdb

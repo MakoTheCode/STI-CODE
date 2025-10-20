@@ -1,0 +1,16 @@
+E:\C#\frmTrackThread\obj\Debug\net8.0-windows\frmTrackThreadApp.frmTrackThread.resources
+E:\C#\frmTrackThread\obj\Debug\net8.0-windows\frmTrackThread.csproj.GenerateResource.cache
+E:\C#\frmTrackThread\obj\Debug\net8.0-windows\frmTrackThread.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\frmTrackThread\obj\Debug\net8.0-windows\frmTrackThread.AssemblyInfoInputs.cache
+E:\C#\frmTrackThread\obj\Debug\net8.0-windows\frmTrackThread.AssemblyInfo.cs
+E:\C#\frmTrackThread\obj\Debug\net8.0-windows\frmTrackThread.csproj.CoreCompileInputs.cache
+E:\C#\frmTrackThread\bin\Debug\net8.0-windows\frmTrackThread.exe
+E:\C#\frmTrackThread\bin\Debug\net8.0-windows\frmTrackThread.deps.json
+E:\C#\frmTrackThread\bin\Debug\net8.0-windows\frmTrackThread.runtimeconfig.json
+E:\C#\frmTrackThread\bin\Debug\net8.0-windows\frmTrackThread.dll
+E:\C#\frmTrackThread\bin\Debug\net8.0-windows\frmTrackThread.pdb
+E:\C#\frmTrackThread\obj\Debug\net8.0-windows\frmTrackThread.dll
+E:\C#\frmTrackThread\obj\Debug\net8.0-windows\refint\frmTrackThread.dll
+E:\C#\frmTrackThread\obj\Debug\net8.0-windows\frmTrackThread.pdb
+E:\C#\frmTrackThread\obj\Debug\net8.0-windows\frmTrackThread.genruntimeconfig.cache
+E:\C#\frmTrackThread\obj\Debug\net8.0-windows\ref\frmTrackThread.dll

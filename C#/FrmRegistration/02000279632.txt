@@ -1,0 +1,7 @@
+Student No.: 02000279632
+Full Name: Santos, Christian, D
+Program: BS Information Technology
+Gender: Male
+Age: 20
+Birthday: Tuesday, November 12, 2024
+Contact No.: 09123456781

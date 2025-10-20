@@ -1,0 +1,10 @@
+{
+  "version": "0.2.1",
+  "tasks": [
+    {
+      "taskLabel": "task-ConsoleApp2",
+      "appliesTo": "ConsoleApp2.cs",
+      "type": "launch"
+    }
+  ]
+}

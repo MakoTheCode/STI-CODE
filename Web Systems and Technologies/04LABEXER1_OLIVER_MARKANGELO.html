@@ -1,0 +1,133 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Responsive Website</title>
+    <style>
+        
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f4;
+            display: flex;
+            flex-direction: column;
+            height: 100vh;
+            justify-content: space-between;
+        }
+
+        
+        .container {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+            gap: 20px;
+            padding: 20px;
+            flex-grow: 1;
+        }
+
+        header {
+            background-color: #4CAF50;
+            padding: 20px;
+            color: white;
+            text-align: center;
+            box-sizing: border-box;
+        }
+
+       
+        .main-content {
+            background-color: #ffffff;
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+        }
+
+        .main-content h2 {
+            color: #333;
+        }
+
+       
+        .sidebar {
+            background-color: #f1f1f1;
+            padding: 20px;
+            border-radius: 8px;
+        }
+
+        
+        footer {
+            background-color: #333;
+            color: white;
+            text-align: center;
+            padding: 10px;
+            width: 100%;
+            box-sizing: border-box;
+        }
+
+        
+        a {
+            text-decoration: none;
+            color: #4CAF50;
+        }
+
+        a:hover {
+            text-decoration: underline;
+        }
+
+        
+        .image-placeholder {
+            width: 100%;
+            height: 250px;
+            background-color: #e1e1e1;
+            border-radius: 8px;
+            margin-bottom: 20px;
+        }
+
+        
+        footer {
+            position: relative;
+            bottom: 0;
+        }
+    </style>
+</head>
+<body>
+
+    <header>
+        <h1>Responsive Peterbilt Website</h1>
+    </header>
+
+    <div class="container">
+        
+        <div class="main-content">
+            <h2>Peterbilt 379</h2>
+            <p>The Peterbilt 379 is a model line of Class 8 trucks that was produced by the Peterbilt division of PACCAR from 1987 to 2007. Serving as the successor to the 359, the 379 was a conventional-cab truck configured primarily for highway use, serving as the flagship of the Peterbilt model line.</p>
+
+            
+            <div class="image-placeholder">
+                <img src="file:///D:/Downloads/download%20(1).jpg" alt="Your Image" style="width: 100%; height: auto;">
+            </div>
+
+            <p>During much of its production, the 379 was popular among owner-operator drivers. In line with the Kenworth W900, the 379 serves as a popular basis for truck customization.
+
+                Following its 2007 discontinuation, the 379 was replaced by the Peterbilt 389, distinguished by oval headlamp clusters and a longer hood. To commemorate the end of production, the final 1000 examples of the 379 were designated as Legacy Class 379.</p>
+        </div>
+
+        
+        <div class="sidebar">
+            <ul>
+                <li><a href="#">https://www.allstatepeterbilt.com/clp-peterbilt-379</a></li>
+                <li><a href="#">https://en.wikipedia.org/wiki/Peterbilt_379</a></li>
+                <li><a href="#">https://www.peterbilt.com</a></li>
+            </ul>
+        </div>
+    </div>
+
+    <footer>
+        <p>&copy; 2025 Responsive Website By Oliver. All rights reserved.</p>
+    </footer>
+
+</body>
+</html>

@@ -1,0 +1,10 @@
+E:\C#\StudentGradeApplication\obj\Debug\StudentGradeApplication.csproj.AssemblyReference.cache
+E:\C#\StudentGradeApplication\obj\Debug\StudentGradeApplication.Form1.resources
+E:\C#\StudentGradeApplication\obj\Debug\StudentGradeApplication.Properties.Resources.resources
+E:\C#\StudentGradeApplication\obj\Debug\StudentGradeApplication.csproj.GenerateResource.cache
+E:\C#\StudentGradeApplication\obj\Debug\StudentGradeApplication.csproj.CoreCompileInputs.cache
+E:\C#\StudentGradeApplication\bin\Debug\StudentGradeApplication.exe.config
+E:\C#\StudentGradeApplication\bin\Debug\StudentGradeApplication.exe
+E:\C#\StudentGradeApplication\bin\Debug\StudentGradeApplication.pdb
+E:\C#\StudentGradeApplication\obj\Debug\StudentGradeApplication.exe
+E:\C#\StudentGradeApplication\obj\Debug\StudentGradeApplication.pdb

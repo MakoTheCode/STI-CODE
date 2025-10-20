@@ -1,0 +1,16 @@
+E:\C#\FrmBasicCalculator\bin\Debug\net8.0-windows\FrmBasicCalculator.exe
+E:\C#\FrmBasicCalculator\bin\Debug\net8.0-windows\FrmBasicCalculator.deps.json
+E:\C#\FrmBasicCalculator\bin\Debug\net8.0-windows\FrmBasicCalculator.runtimeconfig.json
+E:\C#\FrmBasicCalculator\bin\Debug\net8.0-windows\FrmBasicCalculator.dll
+E:\C#\FrmBasicCalculator\bin\Debug\net8.0-windows\FrmBasicCalculator.pdb
+E:\C#\FrmBasicCalculator\obj\Debug\net8.0-windows\BasicCalculator.FrmBasicCalculator.resources
+E:\C#\FrmBasicCalculator\obj\Debug\net8.0-windows\FrmBasicCalculator.csproj.GenerateResource.cache
+E:\C#\FrmBasicCalculator\obj\Debug\net8.0-windows\FrmBasicCalculator.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\FrmBasicCalculator\obj\Debug\net8.0-windows\FrmBasicCalculator.AssemblyInfoInputs.cache
+E:\C#\FrmBasicCalculator\obj\Debug\net8.0-windows\FrmBasicCalculator.AssemblyInfo.cs
+E:\C#\FrmBasicCalculator\obj\Debug\net8.0-windows\FrmBasicCalculator.csproj.CoreCompileInputs.cache
+E:\C#\FrmBasicCalculator\obj\Debug\net8.0-windows\FrmBasicCalculator.dll
+E:\C#\FrmBasicCalculator\obj\Debug\net8.0-windows\refint\FrmBasicCalculator.dll
+E:\C#\FrmBasicCalculator\obj\Debug\net8.0-windows\FrmBasicCalculator.pdb
+E:\C#\FrmBasicCalculator\obj\Debug\net8.0-windows\FrmBasicCalculator.genruntimeconfig.cache
+E:\C#\FrmBasicCalculator\obj\Debug\net8.0-windows\ref\FrmBasicCalculator.dll

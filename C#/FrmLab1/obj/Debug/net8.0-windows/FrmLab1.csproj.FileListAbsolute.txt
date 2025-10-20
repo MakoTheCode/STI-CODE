@@ -1,0 +1,17 @@
+E:\C#\FrmLab1\obj\Debug\net8.0-windows\TextFileCreatorApp.FrmLab1.resources
+E:\C#\FrmLab1\obj\Debug\net8.0-windows\TextFileCreatorApp.FrmFileName.resources
+E:\C#\FrmLab1\obj\Debug\net8.0-windows\FrmLab1.csproj.GenerateResource.cache
+E:\C#\FrmLab1\obj\Debug\net8.0-windows\FrmLab1.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\FrmLab1\obj\Debug\net8.0-windows\FrmLab1.AssemblyInfoInputs.cache
+E:\C#\FrmLab1\obj\Debug\net8.0-windows\FrmLab1.AssemblyInfo.cs
+E:\C#\FrmLab1\obj\Debug\net8.0-windows\FrmLab1.csproj.CoreCompileInputs.cache
+E:\C#\FrmLab1\bin\Debug\net8.0-windows\FrmLab1.exe
+E:\C#\FrmLab1\bin\Debug\net8.0-windows\FrmLab1.deps.json
+E:\C#\FrmLab1\bin\Debug\net8.0-windows\FrmLab1.runtimeconfig.json
+E:\C#\FrmLab1\bin\Debug\net8.0-windows\FrmLab1.dll
+E:\C#\FrmLab1\bin\Debug\net8.0-windows\FrmLab1.pdb
+E:\C#\FrmLab1\obj\Debug\net8.0-windows\FrmLab1.dll
+E:\C#\FrmLab1\obj\Debug\net8.0-windows\refint\FrmLab1.dll
+E:\C#\FrmLab1\obj\Debug\net8.0-windows\FrmLab1.pdb
+E:\C#\FrmLab1\obj\Debug\net8.0-windows\FrmLab1.genruntimeconfig.cache
+E:\C#\FrmLab1\obj\Debug\net8.0-windows\ref\FrmLab1.dll

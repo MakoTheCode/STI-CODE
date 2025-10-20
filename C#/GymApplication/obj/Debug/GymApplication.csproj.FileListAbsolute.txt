@@ -1,0 +1,12 @@
+E:\C#\GymApplication\obj\Debug\GymApplication.csproj.AssemblyReference.cache
+E:\C#\GymApplication\obj\Debug\GymApplication.LoginForm.resources
+E:\C#\GymApplication\obj\Debug\GymApplication.Properties.Resources.resources
+E:\C#\GymApplication\obj\Debug\GymApplication.csproj.GenerateResource.cache
+E:\C#\GymApplication\obj\Debug\GymApplication.csproj.CoreCompileInputs.cache
+E:\C#\GymApplication\bin\Debug\GymApplication.exe.config
+E:\C#\GymApplication\bin\Debug\GymApplication.exe
+E:\C#\GymApplication\bin\Debug\GymApplication.pdb
+E:\C#\GymApplication\bin\Debug\Guna.UI2.dll
+E:\C#\GymApplication\obj\Debug\GymAppli.34F0785E.Up2Date
+E:\C#\GymApplication\obj\Debug\GymApplication.exe
+E:\C#\GymApplication\obj\Debug\GymApplication.pdb

@@ -1,0 +1,9 @@
+E:\C#\StudentInfoApplication\bin\Debug\StudentInfoApplication.exe.config
+E:\C#\StudentInfoApplication\bin\Debug\StudentInfoApplication.exe
+E:\C#\StudentInfoApplication\bin\Debug\StudentInfoApplication.pdb
+E:\C#\StudentInfoApplication\obj\Debug\StudentInfoApplication.csproj.AssemblyReference.cache
+E:\C#\StudentInfoApplication\obj\Debug\StudentInfoApplication.Properties.Resources.resources
+E:\C#\StudentInfoApplication\obj\Debug\StudentInfoApplication.csproj.GenerateResource.cache
+E:\C#\StudentInfoApplication\obj\Debug\StudentInfoApplication.csproj.CoreCompileInputs.cache
+E:\C#\StudentInfoApplication\obj\Debug\StudentInfoApplication.exe
+E:\C#\StudentInfoApplication\obj\Debug\StudentInfoApplication.pdb
