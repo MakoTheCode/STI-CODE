@@ -8,14 +8,6 @@
   ],
   "routes": [
     {
-      "src": "^/images/(.*)",
-      "dest": "/Portfolio Euthenics/images/$1"
-    },
-    {
-      "src": "^/images/(.*)\\.(?:png|jpg|jpeg|gif|svg|webp)$",
-      "dest": "/Portfolio Euthenics/images/$1"
-    },
-    {
       "src": "^/$",
       "dest": "/Portfolio Euthenics/OLIVER_PORTFOLIO.html"
     }
