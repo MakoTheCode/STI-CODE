@@ -2,14 +2,14 @@
   "version": 2,
   "builds": [
     {
-      "src": "Portfolio Euthenics/**",
+      "src": "OLIVER_PORTFOLIO.html",
       "use": "@vercel/static"
     }
   ],
   "routes": [
     {
       "src": "/(.*)",
-      "dest": "/Portfolio Euthenics/OLIVER_PORTFOLIO.html"
+      "dest": "/OLIVER_PORTFOLIO.html"
     }
   ]
 }
