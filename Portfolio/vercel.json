@@ -2,7 +2,7 @@
   "version": 2,
   "builds": [
     {
-      "src": "Portfolio/OLIVER_PORTFOLIO.html",
+      "src": "STI-CODE/Portfolio/OLIVER_PORTFOLIO.html",
       "use": "@vercel/static"
     }
   ],
