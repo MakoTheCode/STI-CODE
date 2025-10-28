@@ -2,7 +2,7 @@
   "version": 2,
   "builds": [
     {
-      "src": "Portfolio/OLIVER_PORTFOLIO.html",
+      "src": "Portfolio Euthenics/**",
       "use": "@vercel/static"
     }
   ],
