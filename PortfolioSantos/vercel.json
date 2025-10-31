@@ -2,14 +2,14 @@
   "version": 2,
   "builds": [
     {
-      "src": "PortfolioSantos/**",
+      "src": "SantosPortfolioLoc/**",
       "use": "@vercel/static"
     }
   ],
   "routes": [
     {
       "src": "/(.*)",
-      "dest": "/Santos.html"
+      "dest": "/SantosPortfolioLoc/Santos.html"
     }
   ]
 }
